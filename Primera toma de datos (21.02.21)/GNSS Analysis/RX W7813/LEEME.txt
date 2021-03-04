@@ -1,0 +1,2 @@
+Códigos hechos para comparar los datos de RX W7813 (antena_FINAL.txt)
+con los datos de GNSS Analysis (gnss_log_2021_02_21_19_21_03.txt)

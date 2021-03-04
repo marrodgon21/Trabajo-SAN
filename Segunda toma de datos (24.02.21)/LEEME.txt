@@ -1,0 +1,2 @@
+Códigos para comparar los datos de la App GalileoPVT (deb24.csv)
+con los datos del RX W7813 (aversicuela.txt)
