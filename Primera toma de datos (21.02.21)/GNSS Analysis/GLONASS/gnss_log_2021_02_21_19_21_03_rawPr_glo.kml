@@ -1,0 +1,2014 @@
+<?xml version="1.0" encoding="utf-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+   <Document>
+      <name>gnss_log_2021_02_21_19_21_03_rawPr.kml</name>
+      <Placemark>
+         <Snippet maxLines="0"> </Snippet>
+         <description> </description>
+         <name>Line 1</name>
+         <Style>
+            <LineStyle>
+               <color>80ffffff</color>
+            </LineStyle>
+         </Style>
+         <LineString>
+            <coordinates> -5.92652529708133,37.3051898881834,0 -5.92637937333081,37.3060770715273,0 -5.92618592801756,37.3058227434033,0 -5.92675089122132,37.3062294941488,0 -5.92652763146166,37.3057908139329,0 -5.92686552945968,37.3059477548905,0 -5.92699009482212,37.306638358025,0 -5.92648954539529,37.3061788394354,0 -5.92852923286563,37.3091722639327,0 -5.9309317072768,37.3113611560962,0 -5.93068535267559,37.3119143828813,0 -5.9310452049238,37.3121397376475,0 -5.93089708642499,37.3121787784494,0 -5.93127875647468,37.3122495356335,0 -5.93097631957955,37.3122478817904,0 -5.93193141567382,37.3121796270373,0 -5.93164824359786,37.3128536498467,0 -5.93198758968365,37.3130590305528,0 -5.93191190028967,37.3132849953803,0 -5.93179853077816,37.313964285712,0 -5.93290081945817,37.3136219599829,0 -5.93253677438305,37.3141239356488,0 -5.93355974693651,37.3150059855214,0 -5.93367110497055,37.3156655335876,0 -5.93311167749561,37.3160854917158,0 -5.93364756930817,37.315947209237,0 -5.93527085101527,37.3176105236633,0 -5.93524780463672,37.3182540779572,0 -5.93571395737363,37.3191603981297,0 -5.93584229177228,37.3192815135159,0 -5.93642468871141,37.3190603117449,0 -5.93740667432938,37.3210804627196,0 -5.94140028764079,37.3214340403324,0 -5.94084564922465,37.3212203325479,0 -5.94202044522648,37.3214542968282,0 -5.94239295165794,37.321916193785,0 -5.94300578699093,37.321764299862,0 -5.94190482325764,37.3213298429909,0 -5.94157986213616,37.3191667395597,0 -5.94284821601301,37.3173186446018,0 -5.94219795881365,37.3180227217511,0 -5.94256704018396,37.3176086064367,0 -5.94179071988243,37.3176547271904,0 -5.94158801563282,37.3190996631682,0 -5.94076975082866,37.3190158234472,0 -5.94131384535825,37.3168971596089,0 -5.94094962821715,37.3159444447519,0 -5.94093319697736,37.3153630609771,0 -5.94101957842701,37.3149248497338,0 -5.94035728802755,37.3152627825297,0 -5.94157507429199,37.3117383792798,0 -5.94216317644105,37.3119820057373,0 -5.94227617953933,37.3112470630318,0 -5.94226274578584,37.3112092920882,0 -5.9417616272991,37.312134919338,0 -5.94261952253204,37.3095824349641,0 -5.94257070153042,37.3098278112304,0 -5.94360158965786,37.3077438483287,0 -5.94536275030285,37.3041965191397,0 -5.94302512790288,37.3076586489291,0 -5.94496635070409,37.303571547358,0 -5.94541718358548,37.3023431312765,0 -5.94396062531971,37.303593536913,0 -5.94500737235057,37.3030368975019,0 -5.94444770336604,37.3033226995185,0 -5.94491414149465,37.3028821415433,0 -5.94340755042659,37.3028213928073,0 -5.94397695159172,37.3032767775705,0 -5.94345211767739,37.303478550339,0 -5.94258767096488,37.303548623349,0 -5.94263700377085,37.3040118684726,0 -5.93977550917929,37.3037465091571,0 -5.94134301760845,37.3037164120061,0 -5.94083126123774,37.3042430963191,0 -5.94072254205457,37.3039518953322,0 -5.94055125829946,37.3039884695887,0 -5.94024409651062,37.3039401010575,0 -5.9394805742994,37.3038391866809,0 -5.93844155236458,37.3039410674467,0 -5.93980532350939,37.3037602076614,0 -5.94065570278345,37.3039988768003,0 -5.94006437130624,37.3041463087838,0 -5.93888432318844,37.3040265079291,0 -5.93853620336132,37.3036475749759,0 -5.93857943586094,37.3039534707862,0 -5.93808378189042,37.3039437103294,0 -5.9374381152384,37.303233430686,0 -5.93667800135415,37.3035325866365,0 -5.93543148305666,37.3036333774181,0 -5.93581908708076,37.303642608826,0 -5.93536252794069,37.3037435184905,0 -5.93406206729028,37.3030937695127,0 -5.93235896123881,37.3032278543325,0 -5.93176004437275,37.302737940005,0 -5.93154782311766,37.3026868814034,0 -5.93160447567635,37.3026030628808,0 -5.93045238404969,37.3028425718974,0 -5.93188010253825,37.302701085909,0 -5.92926648128506,37.302492327489,0 -5.92939065116639,37.303088527998,0 -5.92840502463126,37.3027144358789,0 -5.92844758104995,37.3026837269404,0 -5.92562535530128,37.3032524841156,0 -5.92513390948279,37.3039855645465,0 -5.92544586516841,37.3051398724833,0</coordinates>
+         </LineString>
+      </Placemark>
+      <Placemark>
+         <Snippet maxLines="0"> </Snippet>
+         <description>1, UTC 18:21:24
+37.3051899,-5.9265253,EA17.1m
+Alt 126.6 m, EA 26.3 m
+Vel 11.2,-7.7, EA 1.54 m/s</description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+               </Icon>
+               <scale>0.6</scale>
+               <color>bf3744db</color>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-5.92652529708133,37.3051898881834,0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <Snippet maxLines="0"> </Snippet>
+         <description>2, UTC 18:21:25
+37.3060771,-5.9263794,EA13.4m
+Alt 78.8 m, EA 19.8 m
+Vel 11.9,-7.0, EA 1.16 m/s</description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+               </Icon>
+               <scale>0.6</scale>
+               <color>bf3744db</color>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-5.92637937333081,37.3060770715273,0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <Snippet maxLines="0"> </Snippet>
+         <description>3, UTC 18:21:26
+37.3058227,-5.9261859,EA13.5m
+Alt 45.8 m, EA 18.7 m
+Vel 12.1,-7.3, EA 1.11 m/s</description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+               </Icon>
+               <scale>0.6</scale>
+               <color>bf3744db</color>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-5.92618592801756,37.3058227434033,0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <Snippet maxLines="0"> </Snippet>
+         <description>4, UTC 18:21:27
+37.3062295,-5.9267509,EA11.1m
+Alt 83.5 m, EA 17.1 m
+Vel 11.5,-7.4, EA 1.51 m/s</description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+               </Icon>
+               <scale>0.6</scale>
+               <color>bf3744db</color>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-5.92675089122132,37.3062294941488,0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <Snippet maxLines="0"> </Snippet>
+         <description>5, UTC 18:21:28
+37.3057908,-5.9265276,EA11.1m
+Alt 131.8 m, EA 15.4 m
+Vel 12.0,-7.4, EA 1.02 m/s</description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+               </Icon>
+               <scale>0.6</scale>
+               <color>bf3744db</color>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-5.92652763146166,37.3057908139329,0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <Snippet maxLines="0"> </Snippet>
+         <description>6, UTC 18:21:29
+37.3059478,-5.9268655,EA13.2m
+Alt 108.8 m, EA 19.1 m
+Vel 12.7,-7.1, EA 1.08 m/s</description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+               </Icon>
+               <scale>0.6</scale>
+               <color>bf3744db</color>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-5.92686552945968,37.3059477548905,0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <Snippet maxLines="0"> </Snippet>
+         <description>7, UTC 18:21:30
+37.3066384,-5.9269901,EA11.6m
+Alt 20.8 m, EA 17.7 m
+Vel 12.7,-6.8, EA 1.01 m/s</description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+               </Icon>
+               <scale>0.6</scale>
+               <color>bf3744db</color>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-5.92699009482212,37.306638358025,0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <Snippet maxLines="0"> </Snippet>
+         <description>8, UTC 18:21:32
+37.3061788,-5.9264895,EA15.3m
+Alt 145.4 m, EA 26.6 m
+Vel 12.4,-9.2, EA 1.46 m/s</description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+               </Icon>
+               <scale>0.6</scale>
+               <color>bf3744db</color>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-5.92648954539529,37.3061788394354,0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <Snippet maxLines="0"> </Snippet>
+         <description>9, UTC 18:21:53
+37.3091723,-5.9285292,EA13.1m
+Alt 59.9 m, EA 23.0 m
+Vel 7.0,-6.1, EA 1.90 m/s</description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+               </Icon>
+               <scale>0.6</scale>
+               <color>bf3744db</color>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-5.92852923286563,37.3091722639327,0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <Snippet maxLines="0"> </Snippet>
+         <description>10, UTC 18:22:24
+37.3113612,-5.9309317,EA11.2m
+Alt 130.7 m, EA 13.9 m
+Vel 12.6,-8.2, EA 1.14 m/s</description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+               </Icon>
+               <scale>0.6</scale>
+               <color>bf3744db</color>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-5.9309317072768,37.3113611560962,0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <Snippet maxLines="0"> </Snippet>
+         <description>11, UTC 18:22:25
+37.3119144,-5.9306854,EA10.9m
+Alt 43.1 m, EA 13.1 m
+Vel 14.3,-7.8, EA 1.10 m/s</description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+               </Icon>
+               <scale>0.6</scale>
+               <color>bf3744db</color>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-5.93068535267559,37.3119143828813,0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <Snippet maxLines="0"> </Snippet>
+         <description>12, UTC 18:22:27
+37.3121397,-5.9310452,EA10.8m
+Alt 116.5 m, EA 12.6 m
+Vel 12.7,-7.6, EA 0.98 m/s</description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+               </Icon>
+               <scale>0.6</scale>
+               <color>bf3744db</color>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-5.9310452049238,37.3121397376475,0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <Snippet maxLines="0"> </Snippet>
+         <description>13, UTC 18:22:28
+37.3121788,-5.9308971,EA11.3m
+Alt 123.5 m, EA 16.8 m
+Vel 13.4,-8.2, EA 0.99 m/s</description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+               </Icon>
+               <scale>0.6</scale>
+               <color>bf3744db</color>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-5.93089708642499,37.3121787784494,0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <Snippet maxLines="0"> </Snippet>
+         <description>14, UTC 18:22:29
+37.3122495,-5.9312788,EA11.7m
+Alt 86.2 m, EA 18.5 m
+Vel 14.1,-7.2, EA 1.07 m/s</description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+               </Icon>
+               <scale>0.6</scale>
+               <color>bf3744db</color>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-5.93127875647468,37.3122495356335,0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <Snippet maxLines="0"> </Snippet>
+         <description>15, UTC 18:22:30
+37.3122479,-5.9309763,EA11.7m
+Alt 195.8 m, EA 18.5 m
+Vel 13.1,-7.5, EA 1.06 m/s</description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+               </Icon>
+               <scale>0.6</scale>
+               <color>bf3744db</color>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-5.93097631957955,37.3122478817904,0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <Snippet maxLines="0"> </Snippet>
+         <description>16, UTC 18:22:31
+37.3121796,-5.9319314,EA12.7m
+Alt 57.2 m, EA 18.4 m
+Vel 12.3,-7.4, EA 1.18 m/s</description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+               </Icon>
+               <scale>0.6</scale>
+               <color>bf3744db</color>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-5.93193141567382,37.3121796270373,0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <Snippet maxLines="0"> </Snippet>
+         <description>17, UTC 18:22:32
+37.3128536,-5.9316482,EA12.4m
+Alt 65.7 m, EA 18.4 m
+Vel 13.2,-7.6, EA 1.15 m/s</description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+               </Icon>
+               <scale>0.6</scale>
+               <color>bf3744db</color>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-5.93164824359786,37.3128536498467,0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <Snippet maxLines="0"> </Snippet>
+         <description>18, UTC 18:22:37
+37.3130590,-5.9319876,EA13.3m
+Alt 23.9 m, EA 16.4 m
+Vel 12.1,-6.9, EA 1.49 m/s</description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+               </Icon>
+               <scale>0.6</scale>
+               <color>bf3744db</color>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-5.93198758968365,37.3130590305528,0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <Snippet maxLines="0"> </Snippet>
+         <description>19, UTC 18:22:42
+37.3132850,-5.9319119,EA14.7m
+Alt 155.6 m, EA 25.4 m
+Vel 3.5,-0.9, EA 1.26 m/s</description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+               </Icon>
+               <scale>0.6</scale>
+               <color>bf3744db</color>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-5.93191190028967,37.3132849953803,0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <Snippet maxLines="0"> </Snippet>
+         <description>20, UTC 18:22:52
+37.3139643,-5.9317985,EA15.2m
+Alt 154.2 m, EA 28.6 m
+Vel 6.6,-1.8, EA 1.80 m/s</description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+               </Icon>
+               <scale>0.6</scale>
+               <color>bf3744db</color>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-5.93179853077816,37.313964285712,0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <Snippet maxLines="0"> </Snippet>
+         <description>21, UTC 18:23:04
+37.3136220,-5.9329008,EA40.6m
+Alt 167.0 m, EA 28.5 m
+Vel 14.4,-3.6, EA 3.52 m/s</description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+               </Icon>
+               <scale>0.6</scale>
+               <color>bf3744db</color>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-5.93290081945817,37.3136219599829,0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <Snippet maxLines="0"> </Snippet>
+         <description>22, UTC 18:23:06
+37.3141239,-5.9325368,EA15.6m
+Alt 175.4 m, EA 25.6 m
+Vel 8.3,-9.2, EA 1.40 m/s</description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+               </Icon>
+               <scale>0.6</scale>
+               <color>bf3744db</color>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-5.93253677438305,37.3141239356488,0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <Snippet maxLines="0"> </Snippet>
+         <description>23, UTC 18:23:13
+37.3150060,-5.9335597,EA10.4m
+Alt 149.2 m, EA 12.5 m
+Vel 4.7,-8.1, EA 0.97 m/s</description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+               </Icon>
+               <scale>0.6</scale>
+               <color>bf3744db</color>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-5.93355974693651,37.3150059855214,0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <Snippet maxLines="0"> </Snippet>
+         <description>24, UTC 18:23:15
+37.3156655,-5.9336711,EA11.7m
+Alt 30.6 m, EA 20.4 m
+Vel 7.4,-6.5, EA 1.79 m/s</description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+               </Icon>
+               <scale>0.6</scale>
+               <color>bf3744db</color>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-5.93367110497055,37.3156655335876,0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <Snippet maxLines="0"> </Snippet>
+         <description>25, UTC 18:23:16
+37.3160855,-5.9331117,EA12.8m
+Alt 44.6 m, EA 21.7 m
+Vel 8.6,-5.6, EA 1.71 m/s</description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+               </Icon>
+               <scale>0.6</scale>
+               <color>bf3744db</color>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-5.93311167749561,37.3160854917158,0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <Snippet maxLines="0"> </Snippet>
+         <description>26, UTC 18:23:17
+37.3159472,-5.9336476,EA13.6m
+Alt 62.7 m, EA 23.4 m
+Vel 10.3,-5.2, EA 1.39 m/s</description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+               </Icon>
+               <scale>0.6</scale>
+               <color>bf3744db</color>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-5.93364756930817,37.315947209237,0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <Snippet maxLines="0"> </Snippet>
+         <description>27, UTC 18:23:42
+37.3176105,-5.9352709,EA13.2m
+Alt 149.8 m, EA 20.7 m
+Vel 7.7,-6.5, EA 1.94 m/s</description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+               </Icon>
+               <scale>0.6</scale>
+               <color>bf3744db</color>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-5.93527085101527,37.3176105236633,0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <Snippet maxLines="0"> </Snippet>
+         <description>28, UTC 18:23:46
+37.3182541,-5.9352478,EA13.7m
+Alt 139.0 m, EA 22.9 m
+Vel 8.6,-3.3, EA 1.19 m/s</description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+               </Icon>
+               <scale>0.6</scale>
+               <color>bf3744db</color>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-5.93524780463672,37.3182540779572,0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <Snippet maxLines="0"> </Snippet>
+         <description>29, UTC 18:23:52
+37.3191604,-5.9357140,EA16.8m
+Alt 44.5 m, EA 28.0 m
+Vel 7.6,-6.0, EA 1.49 m/s</description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+               </Icon>
+               <scale>0.6</scale>
+               <color>bf3744db</color>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-5.93571395737363,37.3191603981297,0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <Snippet maxLines="0"> </Snippet>
+         <description>30, UTC 18:23:53
+37.3192815,-5.9358423,EA13.6m
+Alt 78.9 m, EA 22.5 m
+Vel 8.2,-6.3, EA 1.33 m/s</description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+               </Icon>
+               <scale>0.6</scale>
+               <color>bf3744db</color>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-5.93584229177228,37.3192815135159,0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <Snippet maxLines="0"> </Snippet>
+         <description>31, UTC 18:23:55
+37.3190603,-5.9364247,EA15.7m
+Alt 44.4 m, EA 24.7 m
+Vel 10.4,-6.9, EA 1.45 m/s</description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+               </Icon>
+               <scale>0.6</scale>
+               <color>bf3744db</color>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-5.93642468871141,37.3190603117449,0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <Snippet maxLines="0"> </Snippet>
+         <description>32, UTC 18:24:16
+37.3210805,-5.9374067,EA11.4m
+Alt 193.6 m, EA 12.9 m
+Vel 6.0,-13.0, EA 0.99 m/s</description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+               </Icon>
+               <scale>0.6</scale>
+               <color>bf3744db</color>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-5.93740667432938,37.3210804627196,0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <Snippet maxLines="0"> </Snippet>
+         <description>33, UTC 18:24:36
+37.3214340,-5.9414003,EA11.6m
+Alt 49.4 m, EA 20.8 m
+Vel 5.5,-8.9, EA 1.06 m/s</description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+               </Icon>
+               <scale>0.6</scale>
+               <color>bf3744db</color>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-5.94140028764079,37.3214340403324,0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <Snippet maxLines="0"> </Snippet>
+         <description>34, UTC 18:24:39
+37.3212203,-5.9408456,EA10.5m
+Alt -1.7 m, EA 13.6 m
+Vel 4.6,-9.2, EA 0.94 m/s</description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+               </Icon>
+               <scale>0.6</scale>
+               <color>bf3744db</color>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-5.94084564922465,37.3212203325479,0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <Snippet maxLines="0"> </Snippet>
+         <description>35, UTC 18:24:44
+37.3214543,-5.9420204,EA13.4m
+Alt 124.2 m, EA 25.0 m
+Vel -2.1,-10.8, EA 1.25 m/s</description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+               </Icon>
+               <scale>0.6</scale>
+               <color>bf3744db</color>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-5.94202044522648,37.3214542968282,0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <Snippet maxLines="0"> </Snippet>
+         <description>36, UTC 18:24:45
+37.3219162,-5.9423930,EA13.2m
+Alt -41.5 m, EA 21.9 m
+Vel -4.9,-9.6, EA 1.34 m/s</description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+               </Icon>
+               <scale>0.6</scale>
+               <color>bf3744db</color>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-5.94239295165794,37.321916193785,0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <Snippet maxLines="0"> </Snippet>
+         <description>37, UTC 18:24:46
+37.3217643,-5.9430058,EA10.7m
+Alt -53.2 m, EA 15.5 m
+Vel -6.2,-8.3, EA 0.72 m/s</description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+               </Icon>
+               <scale>0.6</scale>
+               <color>bf3744db</color>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-5.94300578699093,37.321764299862,0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <Snippet maxLines="0"> </Snippet>
+         <description>38, UTC 18:24:47
+37.3213298,-5.9419048,EA12.1m
+Alt 121.2 m, EA 12.5 m
+Vel -8.9,-5.1, EA 1.00 m/s</description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+               </Icon>
+               <scale>0.6</scale>
+               <color>bf3744db</color>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-5.94190482325764,37.3213298429909,0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <Snippet maxLines="0"> </Snippet>
+         <description>39, UTC 18:25:00
+37.3191667,-5.9415799,EA42.1m
+Alt 208.0 m, EA 25.3 m
+Vel -11.8,4.5, EA 3.38 m/s</description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+               </Icon>
+               <scale>0.6</scale>
+               <color>bf3744db</color>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-5.94157986213616,37.3191667395597,0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <Snippet maxLines="0"> </Snippet>
+         <description>40, UTC 18:25:03
+37.3173186,-5.9428482,EA36.9m
+Alt 245.5 m, EA 21.9 m
+Vel -16.3,2.5, EA 3.12 m/s</description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+               </Icon>
+               <scale>0.6</scale>
+               <color>bf3744db</color>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-5.94284821601301,37.3173186446018,0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <Snippet maxLines="0"> </Snippet>
+         <description>41, UTC 18:25:04
+37.3180227,-5.9421980,EA41.1m
+Alt 204.7 m, EA 24.2 m
+Vel -16.1,3.7, EA 3.36 m/s</description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+               </Icon>
+               <scale>0.6</scale>
+               <color>bf3744db</color>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-5.94219795881365,37.3180227217511,0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <Snippet maxLines="0"> </Snippet>
+         <description>42, UTC 18:25:05
+37.3176086,-5.9425670,EA41.1m
+Alt 260.9 m, EA 24.2 m
+Vel -17.0,2.5, EA 3.32 m/s</description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+               </Icon>
+               <scale>0.6</scale>
+               <color>bf3744db</color>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-5.94256704018396,37.3176086064367,0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <Snippet maxLines="0"> </Snippet>
+         <description>43, UTC 18:25:06
+37.3176547,-5.9417907,EA39.0m
+Alt 258.7 m, EA 23.7 m
+Vel -15.5,3.5, EA 3.20 m/s</description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+               </Icon>
+               <scale>0.6</scale>
+               <color>bf3744db</color>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-5.94179071988243,37.3176547271904,0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <Snippet maxLines="0"> </Snippet>
+         <description>44, UTC 18:25:08
+37.3190997,-5.9415880,EA51.9m
+Alt 132.0 m, EA 34.5 m
+Vel -14.6,4.2, EA 5.16 m/s</description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+               </Icon>
+               <scale>0.6</scale>
+               <color>bf3744db</color>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-5.94158801563282,37.3190996631682,0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <Snippet maxLines="0"> </Snippet>
+         <description>45, UTC 18:25:11
+37.3190158,-5.9407698,EA12.3m
+Alt 106.6 m, EA 11.3 m
+Vel -15.5,3.1, EA 1.00 m/s</description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+               </Icon>
+               <scale>0.6</scale>
+               <color>bf3744db</color>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-5.94076975082866,37.3190158234472,0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <Snippet maxLines="0"> </Snippet>
+         <description>46, UTC 18:25:15
+37.3168972,-5.9413138,EA47.2m
+Alt 144.7 m, EA 30.9 m
+Vel -16.8,2.6, EA 3.97 m/s</description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+               </Icon>
+               <scale>0.6</scale>
+               <color>bf3744db</color>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-5.94131384535825,37.3168971596089,0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <Snippet maxLines="0"> </Snippet>
+         <description>47, UTC 18:25:30
+37.3159444,-5.9409496,EA12.8m
+Alt 87.0 m, EA 16.4 m
+Vel -9.5,-6.7, EA 1.50 m/s</description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+               </Icon>
+               <scale>0.6</scale>
+               <color>bf3744db</color>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-5.94094962821715,37.3159444447519,0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <Snippet maxLines="0"> </Snippet>
+         <description>48, UTC 18:25:33
+37.3153631,-5.9409332,EA14.3m
+Alt 174.0 m, EA 10.6 m
+Vel -11.6,0.3, EA 2.25 m/s</description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+               </Icon>
+               <scale>0.6</scale>
+               <color>bf3744db</color>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-5.94093319697736,37.3153630609771,0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <Snippet maxLines="0"> </Snippet>
+         <description>49, UTC 18:25:41
+37.3149248,-5.9410196,EA9.5m
+Alt 140.5 m, EA 11.7 m
+Vel -14.0,-1.4, EA 1.40 m/s</description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+               </Icon>
+               <scale>0.6</scale>
+               <color>bf3744db</color>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-5.94101957842701,37.3149248497338,0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <Snippet maxLines="0"> </Snippet>
+         <description>50, UTC 18:25:43
+37.3152628,-5.9403573,EA33.1m
+Alt 21.2 m, EA 18.0 m
+Vel -17.1,-3.2, EA 2.93 m/s</description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+               </Icon>
+               <scale>0.6</scale>
+               <color>bf3744db</color>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-5.94035728802755,37.3152627825297,0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <Snippet maxLines="0"> </Snippet>
+         <description>51, UTC 18:26:00
+37.3117384,-5.9415751,EA9.7m
+Alt 158.7 m, EA 10.8 m
+Vel -10.8,-4.2, EA 1.42 m/s</description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+               </Icon>
+               <scale>0.6</scale>
+               <color>bf3744db</color>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-5.94157507429199,37.3117383792798,0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <Snippet maxLines="0"> </Snippet>
+         <description>52, UTC 18:26:01
+37.3119820,-5.9421632,EA13.2m
+Alt 69.4 m, EA 11.5 m
+Vel -9.0,-6.1, EA 2.13 m/s</description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+               </Icon>
+               <scale>0.6</scale>
+               <color>bf3744db</color>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-5.94216317644105,37.3119820057373,0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <Snippet maxLines="0"> </Snippet>
+         <description>53, UTC 18:26:04
+37.3112471,-5.9422762,EA9.2m
+Alt 130.9 m, EA 10.7 m
+Vel -8.0,-7.4, EA 1.27 m/s</description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+               </Icon>
+               <scale>0.6</scale>
+               <color>bf3744db</color>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-5.94227617953933,37.3112470630318,0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <Snippet maxLines="0"> </Snippet>
+         <description>54, UTC 18:26:05
+37.3112093,-5.9422627,EA9.6m
+Alt 202.6 m, EA 9.3 m
+Vel -8.4,-4.1, EA 0.88 m/s</description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+               </Icon>
+               <scale>0.6</scale>
+               <color>bf3744db</color>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-5.94226274578584,37.3112092920882,0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <Snippet maxLines="0"> </Snippet>
+         <description>55, UTC 18:26:06
+37.3121349,-5.9417616,EA35.6m
+Alt -33.8 m, EA 20.4 m
+Vel -11.2,-2.3, EA 2.90 m/s</description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+               </Icon>
+               <scale>0.6</scale>
+               <color>bf3744db</color>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-5.9417616272991,37.312134919338,0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <Snippet maxLines="0"> </Snippet>
+         <description>56, UTC 18:26:22
+37.3095824,-5.9426195,EA11.5m
+Alt 121.3 m, EA 9.5 m
+Vel -17.5,-6.1, EA 1.04 m/s</description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+               </Icon>
+               <scale>0.6</scale>
+               <color>bf3744db</color>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-5.94261952253204,37.3095824349641,0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <Snippet maxLines="0"> </Snippet>
+         <description>57, UTC 18:26:23
+37.3098278,-5.9425707,EA10.5m
+Alt 84.9 m, EA 9.2 m
+Vel -19.6,-6.2, EA 0.97 m/s</description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+               </Icon>
+               <scale>0.6</scale>
+               <color>bf3744db</color>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-5.94257070153042,37.3098278112304,0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <Snippet maxLines="0"> </Snippet>
+         <description>58, UTC 18:26:31
+37.3077438,-5.9436016,EA10.5m
+Alt 101.2 m, EA 8.1 m
+Vel -21.2,-7.2, EA 0.96 m/s</description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+               </Icon>
+               <scale>0.6</scale>
+               <color>bf3744db</color>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-5.94360158965786,37.3077438483287,0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <Snippet maxLines="0"> </Snippet>
+         <description>59, UTC 18:26:41
+37.3041965,-5.9453628,EA37.9m
+Alt 240.3 m, EA 21.5 m
+Vel -20.8,-4.2, EA 3.03 m/s</description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+               </Icon>
+               <scale>0.6</scale>
+               <color>bf3744db</color>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-5.94536275030285,37.3041965191397,0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <Snippet maxLines="0"> </Snippet>
+         <description>60, UTC 18:26:44
+37.3076586,-5.9430251,EA40.2m
+Alt -106.9 m, EA 27.5 m
+Vel -20.9,-3.6, EA 3.43 m/s</description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+               </Icon>
+               <scale>0.6</scale>
+               <color>bf3744db</color>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-5.94302512790288,37.3076586489291,0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <Snippet maxLines="0"> </Snippet>
+         <description>61, UTC 18:26:51
+37.3035715,-5.9449664,EA34.1m
+Alt 142.9 m, EA 18.5 m
+Vel -15.3,1.3, EA 2.81 m/s</description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+               </Icon>
+               <scale>0.6</scale>
+               <color>bf3744db</color>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-5.94496635070409,37.303571547358,0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <Snippet maxLines="0"> </Snippet>
+         <description>62, UTC 18:26:52
+37.3023431,-5.9454172,EA44.2m
+Alt 247.6 m, EA 25.2 m
+Vel -7.8,4.0, EA 4.27 m/s</description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+               </Icon>
+               <scale>0.6</scale>
+               <color>bf3744db</color>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-5.94541718358548,37.3023431312765,0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <Snippet maxLines="0"> </Snippet>
+         <description>63, UTC 18:27:08
+37.3035935,-5.9439606,EA10.8m
+Alt 38.2 m, EA 13.6 m
+Vel -7.8,-2.8, EA 0.94 m/s</description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+               </Icon>
+               <scale>0.6</scale>
+               <color>bf3744db</color>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-5.94396062531971,37.303593536913,0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <Snippet maxLines="0"> </Snippet>
+         <description>64, UTC 18:27:11
+37.3030369,-5.9450074,EA15.4m
+Alt 105.4 m, EA 13.1 m
+Vel -7.7,4.2, EA 1.56 m/s</description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+               </Icon>
+               <scale>0.6</scale>
+               <color>bf3744db</color>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-5.94500737235057,37.3030368975019,0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <Snippet maxLines="0"> </Snippet>
+         <description>65, UTC 18:27:14
+37.3033227,-5.9444477,EA16.6m
+Alt -43.6 m, EA 25.2 m
+Vel 0.6,10.0, EA 2.40 m/s</description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+               </Icon>
+               <scale>0.6</scale>
+               <color>bf3744db</color>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-5.94444770336604,37.3033226995185,0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <Snippet maxLines="0"> </Snippet>
+         <description>66, UTC 18:27:15
+37.3028821,-5.9449141,EA14.9m
+Alt -4.1 m, EA 25.1 m
+Vel 4.1,8.4, EA 1.24 m/s</description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+               </Icon>
+               <scale>0.6</scale>
+               <color>bf3744db</color>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-5.94491414149465,37.3028821415433,0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <Snippet maxLines="0"> </Snippet>
+         <description>67, UTC 18:27:16
+37.3028214,-5.9434076,EA17.0m
+Alt 142.0 m, EA 20.1 m
+Vel 6.3,5.0, EA 1.51 m/s</description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+               </Icon>
+               <scale>0.6</scale>
+               <color>bf3744db</color>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-5.94340755042659,37.3028213928073,0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <Snippet maxLines="0"> </Snippet>
+         <description>68, UTC 18:27:17
+37.3032768,-5.9439770,EA8.0m
+Alt 52.0 m, EA 10.8 m
+Vel 8.0,5.5, EA 0.64 m/s</description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+               </Icon>
+               <scale>0.6</scale>
+               <color>bf3744db</color>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-5.94397695159172,37.3032767775705,0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <Snippet maxLines="0"> </Snippet>
+         <description>69, UTC 18:27:18
+37.3034786,-5.9434521,EA9.2m
+Alt 65.0 m, EA 15.2 m
+Vel 7.0,5.5, EA 0.63 m/s</description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+               </Icon>
+               <scale>0.6</scale>
+               <color>bf3744db</color>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-5.94345211767739,37.303478550339,0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <Snippet maxLines="0"> </Snippet>
+         <description>70, UTC 18:27:30
+37.3035486,-5.9425877,EA14.3m
+Alt 167.6 m, EA 17.0 m
+Vel 2.9,10.5, EA 1.15 m/s</description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+               </Icon>
+               <scale>0.6</scale>
+               <color>bf3744db</color>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-5.94258767096488,37.303548623349,0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <Snippet maxLines="0"> </Snippet>
+         <description>71, UTC 18:27:35
+37.3040119,-5.9426370,EA12.2m
+Alt 88.5 m, EA 14.9 m
+Vel 3.6,12.5, EA 1.53 m/s</description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+               </Icon>
+               <scale>0.6</scale>
+               <color>bf3744db</color>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-5.94263700377085,37.3040118684726,0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <Snippet maxLines="0"> </Snippet>
+         <description>72, UTC 18:27:39
+37.3037465,-5.9397755,EA16.0m
+Alt 241.2 m, EA 22.4 m
+Vel 2.4,15.4, EA 2.40 m/s</description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+               </Icon>
+               <scale>0.6</scale>
+               <color>bf3744db</color>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-5.93977550917929,37.3037465091571,0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <Snippet maxLines="0"> </Snippet>
+         <description>73, UTC 18:27:40
+37.3037164,-5.9413430,EA15.6m
+Alt 50.1 m, EA 20.4 m
+Vel 2.3,13.9, EA 1.42 m/s</description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+               </Icon>
+               <scale>0.6</scale>
+               <color>bf3744db</color>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-5.94134301760845,37.3037164120061,0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <Snippet maxLines="0"> </Snippet>
+         <description>74, UTC 18:27:41
+37.3042431,-5.9408313,EA15.6m
+Alt 49.6 m, EA 18.3 m
+Vel 2.1,15.7, EA 1.85 m/s</description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+               </Icon>
+               <scale>0.6</scale>
+               <color>bf3744db</color>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-5.94083126123774,37.3042430963191,0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <Snippet maxLines="0"> </Snippet>
+         <description>75, UTC 18:27:43
+37.3039519,-5.9407225,EA17.7m
+Alt 97.6 m, EA 19.6 m
+Vel 1.9,15.5, EA 1.52 m/s</description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+               </Icon>
+               <scale>0.6</scale>
+               <color>bf3744db</color>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-5.94072254205457,37.3039518953322,0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <Snippet maxLines="0"> </Snippet>
+         <description>76, UTC 18:27:48
+37.3039885,-5.9405513,EA12.9m
+Alt 89.1 m, EA 13.2 m
+Vel 0.8,15.7, EA 2.14 m/s</description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+               </Icon>
+               <scale>0.6</scale>
+               <color>bf3744db</color>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-5.94055125829946,37.3039884695887,0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <Snippet maxLines="0"> </Snippet>
+         <description>77, UTC 18:27:49
+37.3039401,-5.9402441,EA11.9m
+Alt 107.3 m, EA 12.8 m
+Vel 0.9,15.1, EA 0.87 m/s</description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+               </Icon>
+               <scale>0.6</scale>
+               <color>bf3744db</color>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-5.94024409651062,37.3039401010575,0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <Snippet maxLines="0"> </Snippet>
+         <description>78, UTC 18:27:50
+37.3038392,-5.9394806,EA11.5m
+Alt 117.7 m, EA 16.7 m
+Vel 0.4,15.0, EA 0.73 m/s</description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+               </Icon>
+               <scale>0.6</scale>
+               <color>bf3744db</color>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-5.9394805742994,37.3038391866809,0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <Snippet maxLines="0"> </Snippet>
+         <description>79, UTC 18:27:51
+37.3039411,-5.9384416,EA13.1m
+Alt 94.0 m, EA 14.4 m
+Vel -0.2,15.0, EA 2.13 m/s</description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+               </Icon>
+               <scale>0.6</scale>
+               <color>bf3744db</color>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-5.93844155236458,37.3039410674467,0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <Snippet maxLines="0"> </Snippet>
+         <description>80, UTC 18:27:52
+37.3037602,-5.9398053,EA14.2m
+Alt 139.9 m, EA 18.0 m
+Vel -0.8,14.5, EA 2.20 m/s</description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+               </Icon>
+               <scale>0.6</scale>
+               <color>bf3744db</color>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-5.93980532350939,37.3037602076614,0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <Snippet maxLines="0"> </Snippet>
+         <description>81, UTC 18:27:53
+37.3039989,-5.9406557,EA17.0m
+Alt -54.4 m, EA 19.4 m
+Vel -0.8,14.6, EA 1.48 m/s</description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+               </Icon>
+               <scale>0.6</scale>
+               <color>bf3744db</color>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-5.94065570278345,37.3039988768003,0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <Snippet maxLines="0"> </Snippet>
+         <description>82, UTC 18:27:54
+37.3041463,-5.9400644,EA14.4m
+Alt 42.0 m, EA 15.3 m
+Vel -1.1,16.9, EA 1.36 m/s</description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+               </Icon>
+               <scale>0.6</scale>
+               <color>bf3744db</color>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-5.94006437130624,37.3041463087838,0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <Snippet maxLines="0"> </Snippet>
+         <description>83, UTC 18:27:56
+37.3040265,-5.9388843,EA13.5m
+Alt 13.4 m, EA 16.9 m
+Vel -1.8,14.1, EA 2.17 m/s</description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+               </Icon>
+               <scale>0.6</scale>
+               <color>bf3744db</color>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-5.93888432318844,37.3040265079291,0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <Snippet maxLines="0"> </Snippet>
+         <description>84, UTC 18:27:57
+37.3036476,-5.9385362,EA12.0m
+Alt 118.9 m, EA 11.8 m
+Vel -1.6,14.0, EA 1.49 m/s</description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+               </Icon>
+               <scale>0.6</scale>
+               <color>bf3744db</color>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-5.93853620336132,37.3036475749759,0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <Snippet maxLines="0"> </Snippet>
+         <description>85, UTC 18:27:58
+37.3039535,-5.9385794,EA10.9m
+Alt 119.1 m, EA 13.3 m
+Vel -2.3,13.2, EA 0.74 m/s</description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+               </Icon>
+               <scale>0.6</scale>
+               <color>bf3744db</color>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-5.93857943586094,37.3039534707862,0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <Snippet maxLines="0"> </Snippet>
+         <description>86, UTC 18:27:59
+37.3039437,-5.9380838,EA9.8m
+Alt 67.3 m, EA 10.5 m
+Vel -2.2,11.9, EA 0.73 m/s</description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+               </Icon>
+               <scale>0.6</scale>
+               <color>bf3744db</color>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-5.93808378189042,37.3039437103294,0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <Snippet maxLines="0"> </Snippet>
+         <description>87, UTC 18:28:10
+37.3032334,-5.9374381,EA10.7m
+Alt 66.2 m, EA 17.0 m
+Vel 0.5,11.0, EA 0.79 m/s</description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+               </Icon>
+               <scale>0.6</scale>
+               <color>bf3744db</color>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-5.9374381152384,37.303233430686,0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <Snippet maxLines="0"> </Snippet>
+         <description>88, UTC 18:28:16
+37.3035326,-5.9366780,EA8.7m
+Alt 102.3 m, EA 11.9 m
+Vel 2.2,12.5, EA 0.60 m/s</description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+               </Icon>
+               <scale>0.6</scale>
+               <color>bf3744db</color>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-5.93667800135415,37.3035325866365,0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <Snippet maxLines="0"> </Snippet>
+         <description>89, UTC 18:28:20
+37.3036334,-5.9354315,EA29.3m
+Alt 55.5 m, EA 17.3 m
+Vel -4.1,15.1, EA 2.52 m/s</description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+               </Icon>
+               <scale>0.6</scale>
+               <color>bf3744db</color>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-5.93543148305666,37.3036333774181,0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <Snippet maxLines="0"> </Snippet>
+         <description>90, UTC 18:28:22
+37.3036426,-5.9358191,EA13.4m
+Alt 40.9 m, EA 15.5 m
+Vel -3.1,14.5, EA 1.11 m/s</description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+               </Icon>
+               <scale>0.6</scale>
+               <color>bf3744db</color>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-5.93581908708076,37.303642608826,0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <Snippet maxLines="0"> </Snippet>
+         <description>91, UTC 18:28:24
+37.3037435,-5.9353625,EA38.4m
+Alt 14.7 m, EA 26.4 m
+Vel -6.6,14.3, EA 2.99 m/s</description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+               </Icon>
+               <scale>0.6</scale>
+               <color>bf3744db</color>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-5.93536252794069,37.3037435184905,0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <Snippet maxLines="0"> </Snippet>
+         <description>92, UTC 18:28:26
+37.3030938,-5.9340621,EA15.1m
+Alt 135.1 m, EA 18.6 m
+Vel -5.4,18.2, EA 1.18 m/s</description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+               </Icon>
+               <scale>0.6</scale>
+               <color>bf3744db</color>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-5.93406206729028,37.3030937695127,0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <Snippet maxLines="0"> </Snippet>
+         <description>93, UTC 18:28:35
+37.3032279,-5.9323590,EA17.6m
+Alt 131.9 m, EA 15.7 m
+Vel -4.8,18.9, EA 1.61 m/s</description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+               </Icon>
+               <scale>0.6</scale>
+               <color>bf3744db</color>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-5.93235896123881,37.3032278543325,0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <Snippet maxLines="0"> </Snippet>
+         <description>94, UTC 18:28:39
+37.3027379,-5.9317600,EA9.8m
+Alt 77.1 m, EA 13.2 m
+Vel -3.0,20.5, EA 0.72 m/s</description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+               </Icon>
+               <scale>0.6</scale>
+               <color>bf3744db</color>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-5.93176004437275,37.302737940005,0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <Snippet maxLines="0"> </Snippet>
+         <description>95, UTC 18:28:40
+37.3026869,-5.9315478,EA16.9m
+Alt 105.7 m, EA 14.7 m
+Vel -1.6,21.6, EA 1.59 m/s</description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+               </Icon>
+               <scale>0.6</scale>
+               <color>bf3744db</color>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-5.93154782311766,37.3026868814034,0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <Snippet maxLines="0"> </Snippet>
+         <description>96, UTC 18:28:41
+37.3026031,-5.9316045,EA17.5m
+Alt 49.0 m, EA 16.8 m
+Vel -1.5,20.7, EA 1.59 m/s</description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+               </Icon>
+               <scale>0.6</scale>
+               <color>bf3744db</color>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-5.93160447567635,37.3026030628808,0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <Snippet maxLines="0"> </Snippet>
+         <description>97, UTC 18:28:42
+37.3028426,-5.9304524,EA15.4m
+Alt 178.0 m, EA 17.9 m
+Vel -0.9,19.6, EA 1.42 m/s</description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+               </Icon>
+               <scale>0.6</scale>
+               <color>bf3744db</color>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-5.93045238404969,37.3028425718974,0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <Snippet maxLines="0"> </Snippet>
+         <description>98, UTC 18:28:43
+37.3027011,-5.9318801,EA13.5m
+Alt -46.0 m, EA 18.2 m
+Vel -0.6,20.2, EA 0.99 m/s</description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+               </Icon>
+               <scale>0.6</scale>
+               <color>bf3744db</color>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-5.93188010253825,37.302701085909,0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <Snippet maxLines="0"> </Snippet>
+         <description>99, UTC 18:28:48
+37.3024923,-5.9292665,EA14.8m
+Alt 143.6 m, EA 17.2 m
+Vel 1.5,21.5, EA 1.22 m/s</description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+               </Icon>
+               <scale>0.6</scale>
+               <color>bf3744db</color>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-5.92926648128506,37.302492327489,0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <Snippet maxLines="0"> </Snippet>
+         <description>100, UTC 18:28:49
+37.3030885,-5.9293907,EA13.9m
+Alt 72.2 m, EA 17.1 m
+Vel 1.2,21.7, EA 1.03 m/s</description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+               </Icon>
+               <scale>0.6</scale>
+               <color>bf3744db</color>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-5.92939065116639,37.303088527998,0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <Snippet maxLines="0"> </Snippet>
+         <description>101, UTC 18:28:50
+37.3027144,-5.9284050,EA18.4m
+Alt 107.2 m, EA 17.1 m
+Vel 1.4,20.7, EA 1.55 m/s</description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+               </Icon>
+               <scale>0.6</scale>
+               <color>bf3744db</color>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-5.92840502463126,37.3027144358789,0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <Snippet maxLines="0"> </Snippet>
+         <description>102, UTC 18:28:53
+37.3026837,-5.9284476,EA15.9m
+Alt -0.3 m, EA 23.1 m
+Vel 2.1,21.3, EA 2.39 m/s</description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+               </Icon>
+               <scale>0.6</scale>
+               <color>bf3744db</color>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-5.92844758104995,37.3026837269404,0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <Snippet maxLines="0"> </Snippet>
+         <description>103, UTC 18:29:13
+37.3032525,-5.9256254,EA17.4m
+Alt -4.4 m, EA 22.5 m
+Vel 1.1,9.2, EA 1.55 m/s</description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+               </Icon>
+               <scale>0.6</scale>
+               <color>bf3744db</color>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-5.92562535530128,37.3032524841156,0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <Snippet maxLines="0"> </Snippet>
+         <description>104, UTC 18:29:36
+37.3039856,-5.9251339,EA14.6m
+Alt -3.0 m, EA 14.4 m
+Vel 2.5,-1.8, EA 1.31 m/s</description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+               </Icon>
+               <scale>0.6</scale>
+               <color>bf3744db</color>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-5.92513390948279,37.3039855645465,0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <Snippet maxLines="0"> </Snippet>
+         <description>105, UTC 18:29:40
+37.3051399,-5.9254459,EA14.7m
+Alt 28.4 m, EA 17.4 m
+Vel 1.0,-0.6, EA 1.42 m/s</description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+               </Icon>
+               <scale>0.6</scale>
+               <color>bf3744db</color>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-5.92544586516841,37.3051398724833,0</coordinates>
+         </Point>
+      </Placemark>
+   </Document>
+</kml>
